@@ -3,3 +3,5 @@
 # 1. Rebase
 # 2. Merge
 # 3. Amend
+
+Testing git slack intigration
